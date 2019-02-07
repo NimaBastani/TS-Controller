@@ -4,6 +4,7 @@
  This filterscript want TSConnector plugin! if you dont have it download from :
  https://github.com/maddinat0r/samp-tsconnector/releases
  Change Theese Defines:
+ 
  #define TS_IP "127.0.0.1" // IP Of TeamSpeak Server
  #define TS_PORT 9987 // Port Of TeamSpeak Server
  #define TS_QUESER "serveradmin" // Query's User Of TeamSpeak Server
