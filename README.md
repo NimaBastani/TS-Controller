@@ -1,5 +1,5 @@
 # TS-Controller
- It was a good filterscript to control a TeamSpeak server(version 2.0)
+ 
 # Installation
  This filterscript want TSConnector plugin! if you dont have it download from :
  https://github.com/maddinat0r/samp-tsconnector/releases
